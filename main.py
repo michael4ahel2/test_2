@@ -1,3 +1,5 @@
+from math import *
+
 # This is a sample Python script.
 
 # Press Umschalt+F10 to execute it or replace it with your code.
@@ -7,6 +9,10 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Strg+F8 to toggle the breakpoint.
+    
+    x = sqrt(50)
+    
+    print(x)
 
 
 # Press the green button in the gutter to run the script.
